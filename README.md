@@ -19,4 +19,4 @@ Station zur Messung der Außentemperatur und Luftfeuchtigkeit mit vier unterschi
 - Nucleo-64
 - 16x2 LCD Dot-Matrix Display
 - Temperatursensor DS1820
-- 4xTaster (zur Steurung der Station)
+- 4xTaster (zur Steuerung der Station)
